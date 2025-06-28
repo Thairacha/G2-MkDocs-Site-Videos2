@@ -1,0 +1,201 @@
+site_name: G2 Video Tutorials Library
+theme:
+  name: material
+  logo: assets/Genessys2c.png
+  features:
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.footer
+copyright: |
+    © 2025 Richard Monroe Armes. All rights reserved.
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - smarty
+  - tables
+  - attr_list
+nav:
+  - Home: index.md
+  - TUTORIALS:
+      - Overview: tutorials/---tutorials-overview.md
+      - Using the G2 Menu: tutorials/---using-the-menu.md
+      - Navigating the Single Level Datasheet Form: tutorials/---navigating-the-single-level-datasheet-form.md
+      - Layouts: tutorials/---layouts.md
+      - Datasheet: tutorials/---datasheet.md
+      - Curator Form: tutorials/---curator.md
+      - Tutorial 04: tutorials/---tutorial_04.md
+      - Tutorial 05: tutorials/---tutorial_05.md
+      - Tutorial 06: tutorials/---tutorial_06.md
+      - Tutorial 07: tutorials/---tutorial_07.md
+      - Tutorial 08: tutorials/---tutorial_08.md
+      - Tutorial 09: tutorials/---tutorial_09.md
+      - Tutorial 10: tutorials/---tutorial_10.md
+
+
+  - G2 MENU OPTIONS:
+      - 10.0 CONTACT:
+          - Contacts: contact/---contacts.md
+          - Contacts  Correspondence: contact/---contacts--correspondence.md
+      - 30.0 FOLDER:
+          - Backup Media Folders: folder/---backup-media-folders.md
+          - Folder: folder/---folder.md
+          - Folder  Media: folder/---folder--media.md
+          - Folders: folder/---folders.md
+          - G2 Software Releases Folder (Read Only): folder/---g2-software-releases-folder-(read-only).md
+          - Open File Explore To View Wip Folders: folder/---open-file-explore-to-view-wip-folders.md
+          - Open File Explore To View _Wip_ Folders: folder/---open-file-explore-to-view-_wip_-folders.md
+          - Open File Explorer Permanent: folder/---open-file-explorer-permanent.md
+          - Open G2 Readme File (Menu Level Discussion): folder/---open-g2-readme-file-(menu-level-discussion).md
+          - Register All Files Within A Given Folder: folder/---register-all-files-within-a-given-folder.md
+          - Register Files Selectively Within A Given Folder: folder/---register-files-selectively-within-a-given-folder.md
+          - Register Folder(S) Using File Explorer: folder/---register-folder(s)-using-file-explorer.md
+          - View G2 Release Folder Link: folder/---view-g2-release-folder-link.md
+          - View Registered Files By Batch: folder/---view-registered-files-by-batch.md
+          - View Wip Folder Status: folder/---view-wip-folder-status.md
+      - 50.0 HELP:
+          - About The Curator: help/---about-the-curator.md
+          - About The Software: help/---about-the-software.md
+          - Edit .Ini File: help/---edit-.ini-file.md
+          - G2 Software Releases Folder (Wedit Capability): help/---g2-software-releases-folder-(wedit-capability).md
+          - G2 Users Group  Zoom Link: help/---g2-users-group--zoom-link.md
+          - G2 Users Group Zoom Link: help/---g2-users-group-zoom-link.md
+          - Google Docs Link: help/---google-docs-link.md
+          - Shift F1Help: help/---shift-f1---help.md
+          - Shift F8Restore G2 Main Menu: help/---shift-f8---restore-g2-main-menu.md
+          - Sig  Zoom Links (Non G2): help/---sig--zoom-links-(non-g2).md
+          - Youtube Video Library: help/---youtube-video-library.md
+      - 60.0 LAYOUTS:
+          - Cascade Open Forms (Ctrl Shift F6): layouts/---cascade-open-forms-(ctrl-shift-f6).md
+          - Ctrl Shift F5Restore Current Desktop: layouts/---ctrl-shift-f5---restore-current-desktop.md
+          - Ctrl Shift F6 Cascadereveal  Open Forms: layouts/---ctrl-shift-f6----cascadereveal--open-forms.md
+          - Ctrl Shift F7Save Current Desktop: layouts/---ctrl-shift-f7---save-current-desktop.md
+          - Delete Desktop (From List): layouts/---delete-desktop-(from-list).md
+          - Restore Current Desktop: layouts/---restore-current-desktop.md
+          - Restore Desktop (From List): layouts/---restore-desktop-(from-list).md
+          - Restore Startup Desktop (Shift F5): layouts/---restore-startup-desktop-(shift-f5).md
+          - Restorerefresh Desktop Menu: layouts/---restorerefresh-desktop-menu.md
+          - Save Current Desktop (Ctrl Shift F7): layouts/---save-current-desktop-(ctrl-shift-f7).md
+          - Save Desktop: layouts/---save-desktop.md
+          - Shift F5Restore Startup Desktop: layouts/---shift-f5---restore-startup-desktop.md
+          - Shift F6 Cascademaintain Size: layouts/---shift-f6----cascademaintain-size.md
+      - 100.0 LEGACY I:
+          - Open Legacy Family Tree: legacy_i/---open-legacy-family-tree.md
+      - 105.0 LEGACY II - IMPORT:
+          - Import Color Settings: legacy_ii_-_import/---import-color-settings.md
+          - Import Legacy Ancestor Color Palette: legacy_ii_-_import/---import-legacy-ancestor-color-palette.md
+      - 110.0 LINKS:
+          - Links: links/---links.md
+          - Links  Person: links/---links--person.md
+          - Person  Link: links/---person--link.md
+      - 120.0 LOCATION:
+          - Location: location/---location.md
+          - Location  Media: location/---location--media.md
+          - Location  People: location/---location--people.md
+          - Location Type: location/---location-type.md
+          - Location Types  Locations: location/---location-types--locations.md
+          - Locations: location/---locations.md
+      - 155.0 MEDIA II:
+          - Media: media_ii/---media.md
+          - Media  Person: media_ii/---media--person.md
+          - Media  Tags: media_ii/---media--tags.md
+          - Media Category: media_ii/---media-category.md
+          - Media Category  Media: media_ii/---media-category--media.md
+          - Media Jpgtifbmppng: media_ii/---media----jpgtifbmppng.md
+          - Media Mp4: media_ii/---media----mp4.md
+          - Mediapdfjp2Docx: media_ii/---media---pdfjp2docx.md
+          - Mediaphysical Archive: media_ii/---media---physical-archive.md
+          - Mediawebsites: media_ii/---media---websites.md
+          - Person  Media: media_ii/---person--media.md
+          - Physical Archivemedia: media_ii/---physical-archive---media.md
+          - References To Specific Media: media_ii/---references-to-specific-media.md
+          - Source  Media: media_ii/---source--media.md
+          - Storyboard Projects Media: media_ii/---storyboard-projects-media.md
+          - Tags  Media: media_ii/---tags--media.md
+      - 158.0 MEDIA III:
+          - Create Media Thumbnails: media_iii/---create-media-thumbnails.md
+          - Create Table Defaults With Prompt: media_iii/---create-table-defaults-with-prompt.md
+          - Open Bugenhancement Spreadsheet: media_iii/---open-bugenhancement-spreadsheet.md
+          - Open Date Entry Form: media_iii/---open-date-entry-form.md
+          - Open Table_Data Table: media_iii/---open-table_data-table.md
+          - Open Table_Defaults Table: media_iii/---open-table_defaults-table.md
+      - 200.0 MEDIA_PHYSICAL_ARCHIVE:
+          - Physical Archive: media_physical_archive/---physical-archive.md
+          - Resort Physical Archive Table: media_physical_archive/---resort-physical-archive-table.md
+      - 250.0 MISCELLANEOUS:
+          - Calendar: miscellaneous/---calendar.md
+          - Calendar Of Events: miscellaneous/---calendar-of-events.md
+          - Chatgpt: miscellaneous/---chatgpt.md
+          - Dch To Rma: miscellaneous/---dch-to-rma.md
+          - Home Page: miscellaneous/---home-page.md
+          - Membership Roster: miscellaneous/---membership-roster.md
+          - My Books: miscellaneous/---my-books.md
+          - Myheritage: miscellaneous/---myheritage.md
+          - Newsletters: miscellaneous/---newsletters.md
+          - People: miscellaneous/---people.md
+          - Quick Access Websites , Calendar, Ms Utilities: miscellaneous/---quick-access-websites-,-calendar,-ms-utilities.md
+          - To Do List: miscellaneous/---to-do-list.md
+      - 300.0 MY_DNA:
+          - 23Andme: my_dna/---23andme.md
+          - Ancestry Lineage Color Key: my_dna/---ancestry-lineage-color-key.md
+          - Ancestry.Com: my_dna/---ancestry.com.md
+          - Dna Results: my_dna/---dna-results.md
+          - Ftdna: my_dna/---ftdna.md
+      - 400.0 PERSON I:
+          - Family  Person: person_i/---family--person.md
+          - Favorite People: person_i/---favorite-people.md
+          - Multi People Select…: person_i/---multi-people-select….md
+          - Person  Physical Archive: person_i/---person--physical-archive.md
+          - Personsources: person_i/---person---sources.md
+          - Personstoryboards: person_i/---person---storyboards.md
+          - Physical Archive  Person: person_i/---physical-archive--person.md
+          - Source  Person: person_i/---source--person.md
+          - Website Favorites: person_i/---website-favorites.md
+      - 410.0 PERSON II:
+          - Birthdays: person_ii/---birthdays.md
+          - Collection  Person: person_ii/---collection--person.md
+      - 500.0 SHORTCUT_KEYS:
+          - Shift F2Zoom: shortcut_keys/---shift-f2---zoom.md
+      - 600.0 SOURCE:
+          - Source: source/---source.md
+          - Source Repository: source/---source-repository.md
+          - Source Repository  Source: source/---source-repository--source.md
+          - Source Types: source/---source-types.md
+          - Sources: source/---sources.md
+      - 700.0 STORYBOARD:
+          - Calculate Storyboard Event Ages: storyboard_bite_sized_projects/---calculate-storyboard-event-ages.md
+          - Storyboard Category: storyboard_bite_sized_projects/---storyboard-category.md
+          - Storyboard Event Categories: storyboard_bite_sized_projects/---storyboard-event-categories.md
+          - Storyboard Project: storyboard_bite_sized_projects/---storyboard-project.md
+          - Storyboard Projects (Bite Sized Projects): storyboard_bite_sized_projects/---storyboard-projects-(bite-sized-projects).md
+      - 750.0 SYSTEM:
+          - Clear Data From User Tables (Backend): system/---clear-data-from-user-tables-(backend).md
+          - Clear Desktop: system/---clear-desktop.md
+          - Configuration Settings: system/---configuration-settings.md
+          - Message Log: system/---message-log.md
+          - Readme: system/README.md
+          - Set Ancestor Color Lines: system/---set-ancestor-color-lines.md
+          - Set Pixels Per Inch: system/---set-pixels-per-inch.md
+          - System Dashboard: system/---system-dashboard.md
+          - Videos  H2'S And User Group Recordings: system/---videos--h2's-and-user-group-recordings.md
+      - 780.0 TAG:
+          - Rebuild Tag Tables: tag/---rebuild-tag-tables.md
+          - Tag: tag/---tag.md
+          - Tags: tag/---tags.md
+          - Tags  People: tag/---tags--people.md
+      - 800.0 WEBSITE:
+          - Websites: website/---websites.md
+      - 850.0 WHAGS:
+          - General Meeting Handouts: whags/---general-meeting-handouts.md
+          - Whags Sharepoint Site: whags/---whags-sharepoint-site.md
+      - 999.0 DEVELOPMENT:
+          - Change Release: development/---change-release.md
+          - Change Version Number: development/---change-version-number.md
+          - Open Main_Menu Table: development/---open-main_menu-table.md
+          - Open Menufunctions Module: development/---open-menufunctions-module.md
+          - Rebuild Pubs Table: development/---rebuild-pubs-table.md
