@@ -23,11 +23,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - TUTORIALS:
-      - Overview: tutorials/---tutorials-overview.md
-      - Using the G2 Menu: tutorials/---using-the-menu.md
-      - Navigating the Single Level Datasheet Form: tutorials/---navigating-the-single-level-datasheet-form.md
-      - Layouts: tutorials/---layouts.md
-      - Datasheet: tutorials/---datasheet.md
+      - General Usage:
+          - Overview: tutorials/---tutorials-overview.md
+          - Using the G2 Menu: tutorials/---using-the-menu.md
+          - Navigating the Single Level Datasheet Form: tutorials/---navigating-the-single-level-datasheet-form.md
+          - Layouts: tutorials/---layouts.md
+          - Datasheet: tutorials/---datasheet.md
       - Curator Form: tutorials/---curator.md
       - Tutorial 04: tutorials/---tutorial_04.md
       - Tutorial 05: tutorials/---tutorial_05.md
