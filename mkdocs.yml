@@ -26,7 +26,7 @@ nav:
       - General Usage:
           - Overview: tutorials/---tutorials-overview.md
           - Using the G2 Menu: tutorials/---using-the-menu.md
-          - Navigating the Single Level Datasheet Form: tutorials/---navigating-the-single-level-datasheet-form.md
+          - Installing G2: tutorials/---installing-G2.md
           - Layouts: tutorials/---layouts.md
           - Datasheet: tutorials/---datasheet.md
       - Curator Form: tutorials/---curator.md
