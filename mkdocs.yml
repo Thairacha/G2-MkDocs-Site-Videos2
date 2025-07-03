@@ -23,7 +23,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - TUTORIALS:
-      - General Usage:
+      - Getting Started with G2:
           - Overview: tutorials/---tutorials-overview.md
           - Using the G2 Menu: tutorials/---using-the-menu.md
           - Installing G2: tutorials/---installing-G2.md
