@@ -26,7 +26,7 @@ nav:
       - Getting Started with G2:
           - Overview: tutorials/---tutorials-overview.md
           - Using the G2 Menu: tutorials/---using-the-menu.md
-          - Installing G2: tutorials/---installing-G2.md
+          - Installing G2 (**NEW**): tutorials/---installing-G2.md
           - Layouts: tutorials/---layouts.md
           - Datasheet: tutorials/---datasheet.md
       - Curator Form: tutorials/---curator.md
