@@ -30,6 +30,7 @@ nav:
           - Layouts: tutorials/---layouts.md
           - Datasheet: tutorials/---datasheet.md
           - Importing Legacy data: tutorials/---importing-legacy.md
+          - Registering Folders Using File Explorer: tutorials/---registering-folders-file-explorer.md
       - Curator Form: tutorials/---curator.md
       - Tutorial 04: tutorials/---tutorial_04.md
       - Tutorial 05: tutorials/---tutorial_05.md
